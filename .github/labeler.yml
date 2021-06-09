@@ -1,2 +1,2 @@
 Enhancement:
-  - all : ['.github/*']
+  - any: ['*.yml']
