@@ -1,2 +1,5 @@
 bug:
-  - any: ['*.yml']
+  - any: ['*.bug']
+
+enhancement:
+  - any: ['*.enh']
