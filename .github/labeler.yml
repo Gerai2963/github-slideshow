@@ -2,7 +2,7 @@ bug:
   - any: ['**/*.bug']
 
 enhancement:
-  - any: ['/**/*.enh']
+  - any: ['**/*.enh']
 
 question:
   - any: ['*.yml']
