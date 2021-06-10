@@ -3,3 +3,6 @@ bug:
 
 enhancement:
   - any: ['*.enh']
+
+question:
+  - any: ['*.yml']
